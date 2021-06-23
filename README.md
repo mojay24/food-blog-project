@@ -1,5 +1,5 @@
 # Project FoodNinjas
-**Course:** WebApplication Devolopment
+**Course:** Web Application Devolopment
 
 ![](https://i.postimg.cc/m211TX38/ninja.png)
 
