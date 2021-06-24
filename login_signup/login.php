@@ -20,7 +20,7 @@
 </style>
 </head>
 <body>
-<a href="../food-blog.php" class=" large btn blue white-text" style="position:absolute;right:2%;top:15px;"><span>Home</span><i class="material-icons white-text right" style="font-size:17px;" >home</i></a>
+<a href="../index.php" class=" large btn blue white-text" style="position:absolute;right:2%;top:15px;"><span>Home</span><i class="material-icons white-text right" style="font-size:17px;" >home</i></a>
 <div class="container">
 	<div class="row">
 		<div class="col-sm-4">

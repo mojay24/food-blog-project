@@ -1,10 +1,10 @@
 <?php
 
 // connect to the database
-$dbHost = 'sql112.epizy.com';
-$dbName = 'epiz_28954844_projectDb';
-$dbUsername = 'epiz_28954844';
-$dbPassword = 'st4M2oydCI';
+$dbHost = 'localhost';
+$dbName = 'FoodBlogDb';
+$dbUsername = 'root';
+$dbPassword = '';
 $conn = mysqli_connect($dbHost, $dbUsername, $dbPassword, $dbName);
 
 // check connection

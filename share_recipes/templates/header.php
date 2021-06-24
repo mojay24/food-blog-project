@@ -26,7 +26,7 @@
 <body class="grey lighten-4">
 	<nav class="black z-depth-0">
     <div class="container">
-      <a href="../food-blog.php" class="brand-logo ">FoodNinjas</a>
+      <a href="../index.php" class="brand-logo ">FoodNinjas</a>
       <ul id="nav-mobile" class="right hide-on-small-and-down">
         <li><a href="add.php" class="btn indigo z-depth-0">Add Your Recipe</a></li>
       </ul>

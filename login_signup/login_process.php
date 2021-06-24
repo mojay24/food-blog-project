@@ -14,7 +14,7 @@ if($numRows  == 1)
         {
              $_SESSION["login_sess"]="1"; 
              $_SESSION["login_email"]= $row['email'];
-            header("location:../food-blog.php");
+            header("location:../index.php");
         }
         else{ 
      header("location:login.php?loginerror=".$login);
