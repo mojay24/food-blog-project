@@ -19,6 +19,7 @@ FoodNinjas is a project made in order to apply all the HTML, CSS, JavaScript and
 - Food Recipes
 - Post your own Food Recipes
 - Save and Print Food Recipes
+- Comment and Reply Section
 
 
 ### REFERENCES AND CREDITS
